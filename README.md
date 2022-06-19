@@ -1,4 +1,4 @@
-## Text Editor
+## Text Editor [In Progress ⚙️]
 
 Building a basic text editor from scratch without any dependencies using C.
 
@@ -12,3 +12,5 @@ The `Makefile` is responsible for compiling the `kilo.c` file into the executabl
 make
 ./kilo
 ```
+
+To resume from: [Global state](https://viewsourcecode.org/snaptoken/kilo/03.rawInputAndOutput.html#global-state).
